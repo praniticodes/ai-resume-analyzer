@@ -33,3 +33,9 @@ An AI-powered resume analyzer and job matcher web app built with **Python**, **N
 ```bash
 git clone https://github.com/praniticodes/ai-resume-analyzer.git
 cd ai-resume-analyzer
+
+## 📬 Contact
+
+**Made by [@praniticodes](https://github.com/praniticodes)**  
+Feel free to connect or raise an issue!
+
